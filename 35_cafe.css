@@ -1,0 +1,674 @@
+*
+{
+    font-family: montserrat;
+    background-size: cover;
+}
+.landing
+{
+    margin:0;
+    height: 730px;
+    width:102%;
+    background-image: url(34_cafe.jpg);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.name
+{
+    border: 2px solid #432921;
+    font-size: 100px;
+    font-family:montserrat ;
+    color:#432921;
+}
+.about
+{
+    margin: 0;
+    height: 330px;
+    width: 50%;
+    background-color: #80889E;
+    font-family:montserrat;
+    color: #5F4234;
+}
+.about-head
+{
+    font-size: 50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.content
+{
+    align-content: center;
+}
+.contact
+{
+    margin: 0;
+    height: 330px;
+    width: 51.4%;
+    position: absolute;
+    top: 738px;
+    left: 50%;
+    background-color: #80889E;
+    font-family:montserrat;
+    color: #5F4234;
+}
+.con-head
+{
+    font-size: 50px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.loc
+{
+    display: flex;
+}
+.loc-icon
+{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: transparent;
+}
+.add
+{
+    height: 50px;
+    width:400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: transparent;
+}
+.call
+{
+    display: flex;
+}
+.call-icon
+{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: transparent;
+}
+.number
+{
+    height: 50px;
+    width: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: transparent;
+}
+.insta
+{
+    display: flex;
+}
+.insta-icon
+{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: transparent;
+}
+.insta-id
+{
+    height: 50px;
+    width: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: transparent;
+}
+.fb
+{
+    display: flex;
+}
+.fb-icon
+{
+    height: 50px;
+    width: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: transparent;
+}
+.fb-id
+{
+    height: 50px;
+    width: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: transparent;
+}
+
+.menu
+{
+    height: 1600px;
+    width: 102%;
+    background-image: url(34_bg.png);
+    background-size: cover;
+    color: antiquewhite;
+}
+.heading
+{
+    height: 60px;
+    width: 102%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: montserrat;
+    font-size: 50px;
+    color: antiquewhite;
+}
+.coffee
+{
+    height: 300px;
+    width: 102%;
+    font-size:10px;
+    border: transparent;
+}
+.cof-head
+{
+    height: 40px;
+    width: 102%;
+    font-family: montserrat;
+    font-size: 30px;
+    padding-left: 5%;
+    color: antiquewhite;
+}
+.cappucino 
+{
+    height: 250px;
+    width: 250px;
+    border: transparent;
+    position:absolute;
+    left: 100px;
+    display: flex;
+    justify-content: center;
+}
+.cap-photo
+{
+    height: 200px;
+    width: 200px;
+    position:absolute;
+    left: 25px;
+    top:20px;
+    border:transparent;
+    border-radius: 50%;
+    background-image: url(34_cappuccino.jpg);
+    background-size: contain;
+}
+.fname
+{
+    height: 20px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top:230px;
+    font-size: 18px;
+}
+.americano 
+{
+    height: 250px;
+    width: 250px;
+    border:transparent;
+    position:absolute;
+    left: 400px;
+    display: flex;
+    justify-content: center;
+}
+.amer-photo
+{
+    height: 200px;
+    width: 200px;
+    position:absolute;
+    left: 25px;
+    top:20px;
+    border: transparent;
+    border-radius: 50%;
+    background-image: url(34_amer.jpeg);
+    background-size: contain;
+}
+.coldcoffee 
+{
+    height: 250px;
+    width: 250px;
+    border: transparent;
+    position:absolute;
+    left: 700px;
+    display: flex;
+    justify-content: center;
+}
+.cold-photo
+{
+    height: 200px;
+    width: 200px;
+    position:absolute;
+    left: 25px;
+    top:20px;
+    border: transparent;
+    border-radius: 50%;
+    background-image: url(34_cc.jpeg);
+    background-size:auto;
+}
+.salad
+{
+    height: 300px;
+    width: 102%;
+    font-size:10px;
+    border: transparent;
+}
+.salad-head
+{
+    height: 40px;
+    width: 102%;
+    font-family: montserrat;
+    font-size: 30px;
+    padding-left: 5%;
+    color: antiquewhite;
+}
+.burrata 
+{
+    height: 250px;
+    width: 250px;
+    border: transparent;
+    position:absolute;
+    left: 100px;
+    display: flex;
+    justify-content: center;
+}
+.burr-photo
+{
+    height: 200px;
+    width: 200px;
+    position:absolute;
+    left: 25px;
+    top:20px;
+    border:transparent;
+    border-radius: 50%;
+    background-image: url(34_zen.jpeg);
+    background-size: cover;
+}
+.fname
+{
+    height: 20px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top:230px;
+    font-size: 18px;
+}
+.green
+{
+    height: 250px;
+    width: 250px;
+    border:transparent;
+    position:absolute;
+    left: 400px;
+    display: flex;
+    justify-content: center;
+}
+.green-photo
+{
+    height: 200px;
+    width: 200px;
+    position:absolute;
+    left: 25px;
+    top:20px;
+    border: transparent;
+    border-radius: 50%;
+    background-image: url(34_tropic.jpeg);
+    background-size: cover;
+}
+.ava 
+{
+    height: 250px;
+    width: 250px;
+    border: transparent;
+    position:absolute;
+    left: 700px;
+    display: flex;
+    justify-content: center;
+}
+.ava-photo
+{
+    height: 200px;
+    width: 200px;
+    position:absolute;
+    left: 25px;
+    top:20px;
+    border: transparent;
+    border-radius: 50%;
+    background-image: url(34_gold.jpg);
+    background-size:cover;
+}
+.sandwich
+{
+    height: 300px;
+    width: 102%;
+    font-size:10px;
+    border: transparent;
+}
+.sand-head
+{
+    height: 40px;
+    width: 102%;
+    font-family: montserrat;
+    font-size: 30px;
+    padding-left: 5%;
+    color: antiquewhite;
+}
+.panini 
+{
+    height: 250px;
+    width: 250px;
+    border: transparent;
+    position:absolute;
+    left: 100px;
+    display: flex;
+    justify-content: center;
+}
+.pan-photo
+{
+    height: 200px;
+    width: 200px;
+    position:absolute;
+    left: 25px;
+    top:20px;
+    border:transparent;
+    border-radius: 50%;
+    background-image: url(34_panini.jpg);
+    background-size: cover;
+}
+.fname
+{
+    height: 20px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top:230px;
+    font-size: 18px;
+}
+.garden
+{
+    height: 250px;
+    width: 250px;
+    border:transparent;
+    position:absolute;
+    left: 400px;
+    display: flex;
+    justify-content: center;
+}
+.gard-photo
+{
+    height: 200px;
+    width: 200px;
+    position:absolute;
+    left: 25px;
+    top:20px;
+    border: transparent;
+    border-radius: 50%;
+    background-image: url(34_graden.jpeg);
+    background-size: cover;
+}
+.honey
+{
+    height: 250px;
+    width: 250px;
+    border: transparent;
+    position:absolute;
+    left: 700px;
+    display: flex;
+    justify-content: center;
+}
+.honey-photo
+{
+    height: 200px;
+    width: 200px;
+    position:absolute;
+    left: 25px;
+    top:20px;
+    border: transparent;
+    border-radius: 50%;
+    background-image: url(34_honey.jpeg);
+    background-size:auto;
+}
+.pasta
+{
+    height: 300px;
+    width: 102%;
+    font-size:10px;
+    border: transparent;
+}
+.pasta-head
+{
+    height: 40px;
+    width: 102%;
+    font-family: montserrat;
+    font-size: 30px;
+    padding-left: 5%;
+    color: antiquewhite;
+}
+.arab
+{
+    height: 250px;
+    width: 250px;
+    border: transparent;
+    position:absolute;
+    left: 100px;
+    display: flex;
+    justify-content: center;
+}
+.arab-photo
+{
+    height: 200px;
+    width: 200px;
+    position:absolute;
+    left: 25px;
+    top:20px;
+    border:transparent;
+    border-radius: 50%;
+    background-image: url(34_arab.jpeg);
+    background-size: cover;
+}
+.fname
+{
+    height: 20px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top:230px;
+    font-size: 18px;
+}
+.aglio
+{
+    height: 250px;
+    width: 250px;
+    border:transparent;
+    position:absolute;
+    left: 400px;
+    display: flex;
+    justify-content: center;
+}
+.aglio-photo
+{
+    height: 200px;
+    width: 200px;
+    position:absolute;
+    left: 25px;
+    top:20px;
+    border: transparent;
+    border-radius: 50%;
+    background-image: url(34_aglio.jpg);
+    background-size: cover;
+}
+.pesto
+{
+    height: 250px;
+    width: 250px;
+    border: transparent;
+    position:absolute;
+    left: 700px;
+    display: flex;
+    justify-content: center;
+}
+.pesto-photo
+{
+    height: 200px;
+    width: 200px;
+    position:absolute;
+    left: 25px;
+    top:20px;
+    border: transparent;
+    border-radius: 50%;
+    background-image: url(34_pesto.jpg);
+    background-size:cover;
+}
+.pastry
+{
+    height: 300px;
+    width: 102%;
+    font-size:10px;
+    border: transparent;
+}
+.pastry-head
+{
+    height: 40px;
+    width: 102%;
+    font-family: montserrat;
+    font-size: 30px;
+    padding-left: 5%;
+    color: antiquewhite;
+}
+.berry
+{
+    height: 250px;
+    width: 250px;
+    border: transparent;
+    position:absolute;
+    left: 100px;
+    display: flex;
+    justify-content: center;
+}
+.berry-photo
+{
+    height: 200px;
+    width: 200px;
+    position:absolute;
+    left: 25px;
+    top:20px;
+    border:transparent;
+    border-radius: 50%;
+    background-image: url(34_berry.jpeg);
+    background-size: cover;
+}
+.fname
+{
+    height: 20px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top:230px;
+    font-size: 18px;
+}
+.tini
+{
+    height: 250px;
+    width: 250px;
+    border:transparent;
+    position:absolute;
+    left: 400px;
+    display: flex;
+    justify-content: center;
+}
+.tini-photo
+{
+    height: 200px;
+    width: 200px;
+    position:absolute;
+    left: 25px;
+    top:20px;
+    border: transparent;
+    border-radius: 50%;
+    background-image: url(34_truffle.jpeg);
+    background-size: cover;
+}
+.vanilla
+{
+    height: 250px;
+    width: 250px;
+    border: transparent;
+    position:absolute;
+    left: 700px;
+    display: flex;
+    justify-content: center;
+}
+.vanilla-photo
+{
+    height: 200px;
+    width: 200px;
+    position:absolute;
+    left: 25px;
+    top:20px;
+    border: transparent;
+    border-radius: 50%;
+    background-image: url(34_vanilla.jpg);
+    background-size:cover;
+}
+.fname
+{
+    font-size:0px;
+}
+.fname:hover
+{
+    font-size:18px;
+}
+.footer
+{
+    height: 60px;
+    width: 102%;
+    background-color: antiquewhite;
+    color:#432921;
+    display: flex;
+    align-items: center;
+}
+.logo
+{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    background-image: url(34_logo.png);
+    background-size: contain;
+}
+.copyright
+{
+    height: 50px;
+    position: absolute;
+    left: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
